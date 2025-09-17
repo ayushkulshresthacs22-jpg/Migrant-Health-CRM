@@ -35,4 +35,7 @@ Migrant Health CRM is a Salesforce-based *Digital Health Record Management Syste
 ## 📊 Impact  
 Supports governments, NGOs, and healthcare institutions in *disease prevention, public health surveillance, and equitable access to healthcare*.  
 
----
+
+
+[[https://docs.google.com/document/d/1EX6DuUavRvafVH-TSAXUxNXNz2ANwN8H/edit](https://docs.google.com/document/d/1EX6DuUavRvafVH-TSAXUxNXNz2ANwN8H/edit?usp=drive_link&ouid=115851212325876040609&rtpof=true&sd=true)
+](https://docs.google.com/document/d/1EX6DuUavRvafVH-TSAXUxNXNz2ANwN8H/edit?usp=drive_link&ouid=115851212325876040609&rtpof=true&sd=true)
